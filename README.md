@@ -25,4 +25,5 @@ I have also uploaded a test file for a 50x50 board under the test folder. To use
 3. Install python mode in Processing. 
 
 ###Execution###
-The solver can be executed using the Ricochet.pyde file via the Processing IDE.
+The solver can be executed using the Ricochet.pyde file via the Processing IDE.  
+An exception is raised if the solver detects a loop, i.e if no solution exists.
