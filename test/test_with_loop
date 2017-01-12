@@ -1,0 +1,5 @@
+50 # Number of rows
+50 # Number of columns
+[(0, 4), (3, 4), (10, 0), (2, 55), (13, 13), (40, 14), (4, 27), (35, 16), (6, 21), (17, 29), (49, 4), (49,49)] # List of block locations
+(36, 4) # Where the ball starts
+(2, 4) # Goal location
